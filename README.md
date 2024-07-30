@@ -1,24 +1,47 @@
-# JAMStack personal blog - starter files
+As I continue my journey to become a first-class front-end developer, I'm learning that building efficient, scalable, and performant websites is among my main priorities. Turns out there's a lot of tools a developer can use. This repo demonstrates my introduction to and use of three essential tools for achieving this: JAMStack, Eleventy, and Nunjucks.
 
-These are the starting files used by [Kevin Powell](https://kevinpowell.co) to create a personal blog site for the [Codementor](https://www.codementor.io/) DevProjects Challenge, [Create a fast and secure blog using JAMStack](https://www.codementor.io/projects/web/create-a-fast-and-secure-blog-using-jamstack-c93coupnxb). You are free to use them however you want to get started with the challenge, if you'd like to start working on creating the site without worrying about the content itself.
+I was introduced to these concepts by one of my mentors who wanted me to get experience with static site generators. What resulted is something I pulled together that focuses on my interest in the Beach Boys and their music. Here's a link to the finished project that I call "Good Vibrations Central": https://courageous-malasada-fb7028.netlify.app/
 
-The provided files are finished pages using regular HTML and CSS. The HTML files can be broken down into peices, and used to build out the different templates and partial files using a templating language of your choice.
+One very cool outcome of this exercise was my use of parallax scrolling. Check it out. It can be seen by clicking on the "Wax Stack" and "Snapsicles" links. Love parallax scrolling!
 
-The styling of the pages is already complete. That said, the `design-files` folder contains both a Figma file, and .jpg of a design if you want to try to build it from scratch. You do not need to use this design at all either, it depends on how you wish to approach the challenge.
+Here is an image that shows the top of the snapsicles page:
 
-The `src` folder contains files so that you can get your project up and running without worrying about content for posts/articles. That folder contains:
+<img width="958" alt="snapsicles" src="https://github.com/user-attachments/assets/4115386b-e97d-4357-9e62-6f041c6a9956">
 
-- HTML files to use as a base for the different page layouts. These can be turned into the templates that will be used.
-- CSS file for styling the pages
-- 5 blog articles in the `blog` folder
-- images and a logo in the `assets` folder
+As you scroll down the page, you will see parallax motion of images of the Beach Boys spanning from 1961 to 1969.
 
-The articles are written in Markdown, and include Front Matter. Depending on the Static Site Generator you use, it is possible that you will have to modify these a little if you wish to use them. 
+For those who want a high-level view of JAMStack, Eleventy, and Nunjucks, I created a mini explanation below. Here also is a link to a good online tutorial where the instructor turned static HTML and CSS into a blog with CMS using the JAMStack: https://www.youtube.com/watch?v=4wD00RT6d-g.
 
-## DevProjects Challenge
+### Why JAMStack?
 
-As mentioned, these files are here to help get started with a DevProjects challenge. Please visit the [challenge page](#) to learn more about the challenge.
+JAMStack stands for JavaScript, APIs, and Markup. It's a web development approach that prioritizes speed, security, and scalability. Here's what makes it great:
 
-## Tutorial
+- Blazing Fast: Content is pre-rendered, resulting in lightning-fast load times.
 
-You can [watch this video](https://youtu.be/4wD00RT6d-g) to see how Kevin uses Eleventy, Netlify, and Netlify CMS to create a full-featured blog site built entirely with static files.
+- Fort Knox Security: Fewer moving parts mean a smaller attack surface for hackers.
+
+- Scales Like a Boss: Handles massive traffic spikes with ease.
+
+- Cost-Effective: Less server infrastructure translates to lower maintenance costs.
+
+### Eleventy: Your Static Site Generator BFF
+
+Eleventy is a powerful static site generator (SSG) that works seamlessly with JAMStack. It allows you to:
+
+- Craft beautiful websites: Build dynamic and engaging web experiences.
+
+- Embrace templates: Create reusable templates for consistent layouts and design.
+
+- Work with Nunjucks: Leverage Nunjucks for data-driven content within your templates.
+
+### Nunjucks: Templater Extraordinaire
+
+Nunjucks is a templating engine that empowers you to:
+
+- Write familiar code: Use JavaScript-like syntax for easy template creation.
+
+- Dynamic Magic: Generate content based on data, enabling flexible web pages.
+
+- JAMStack Champion: Perfectly complements Eleventy's SSG capabilities.
+
+- In short, this project is built for speed, security, and a delightful developer experience.
