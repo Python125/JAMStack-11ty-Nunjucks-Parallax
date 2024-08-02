@@ -6,7 +6,8 @@ One very cool outcome of this exercise was my use of parallax scrolling. Check i
 
 Here is an image that shows the top of the snapsicles page:
 
-<img width="958" alt="snapsicles" src="https://github.com/user-attachments/assets/4115386b-e97d-4357-9e62-6f041c6a9956">
+<!-- img width="958" alt="snapsicles" src="https://github.com/user-attachments/assets/4115386b-e97d-4357-9e62-6f041c6a9956" -->
+![GVC3](https://github.com/user-attachments/assets/d660b1cc-7ff8-4cdf-a264-2db89974344f)
 
 As you scroll down the page, you will see parallax motion of images of the Beach Boys spanning from 1961 to 1969.
 
