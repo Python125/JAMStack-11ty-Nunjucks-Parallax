@@ -1,6 +1,6 @@
 As I continue my journey to become a first-class front-end developer, I'm learning that building efficient, scalable, and performant websites is among my main priorities. Turns out there's a lot of tools a developer can use. This repo demonstrates my introduction to and use of three essential tools for achieving this: JAMStack, Eleventy, and Nunjucks.
 
-I was introduced to these concepts by one of my mentors who wanted me to get experience with static site generators. What resulted is something I pulled together that focuses on my interest in the Beach Boys and their music. Here's a link to the finished project that I call "Good Vibrations Central": https://courageous-malasada-fb7028.netlify.app/
+I was introduced to these concepts by one of my mentors who wanted me to get experience with static site generators. What resulted is something I pulled together that focuses on my interest in the Beach Boys and their music.
 
 One very cool outcome of this exercise was my use of parallax scrolling. Check it out. It can be seen by clicking on the "Wax Stack" and "Snapsicles" links. Love parallax scrolling!
 
