@@ -4,9 +4,9 @@ I was introduced to these concepts by one of my mentors who wanted me to get exp
 
 One very cool outcome of this exercise was my use of parallax scrolling. Check it out. It can be seen by clicking on the "Wax Stack" and "Snapsicles" links. Love parallax scrolling! Experience the features of this project directly in the browser by visiting the live demo [here](https://courageous-malasada-fb7028.netlify.app/)
 
-Here is an image that shows the top of the snapsicles page:
+<!-- Here is an image that shows the top of the snapsicles page:
 
-![gif](https://github.com/user-attachments/assets/d660b1cc-7ff8-4cdf-a264-2db89974344f)
+![gif](https://github.com/user-attachments/assets/d660b1cc-7ff8-4cdf-a264-2db89974344f) -->
 
 As you scroll down the page, you will see parallax motion of images of the Beach Boys spanning from 1961 to 1969.
 
