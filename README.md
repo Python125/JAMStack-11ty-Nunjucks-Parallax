@@ -1,4 +1,4 @@
-![Screenshot](../images/GVC.png)
+![Screenshot](/src/images/GVC.png)
 
 As I continue my journey to become a first-class front-end developer, I'm learning that building efficient, scalable, and performant websites is among my main priorities. Turns out there's a lot of tools a developer can use. This repo demonstrates my introduction to and use of three essential tools for achieving this: JAMStack, Eleventy, and Nunjucks.
 
