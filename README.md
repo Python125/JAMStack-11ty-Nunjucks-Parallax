@@ -6,7 +6,7 @@ I was introduced to these concepts by one of my mentors who wanted me to get exp
 
 One very cool outcome of this exercise was my use of parallax scrolling. Check it out. It can be seen by clicking on the "Wax Stack" and "Snapsicles" links. Love parallax scrolling!
 
-Experience the features of this project directly in the browser by visiting the live demo [here](https://courageous-malasada-fb7028.netlify.app/)
+Experience the features of this project directly in the browser by visiting the live demo [here](https://statuesque-crepe-9aaf36.netlify.app/)
 
 <!-- Here is an image that shows the top of the snapsicles page:
 
