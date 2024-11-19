@@ -4,7 +4,9 @@ As I continue my journey to become a first-class front-end developer, I'm learni
 
 I was introduced to these concepts by one of my mentors who wanted me to get experience with static site generators. What resulted is something I pulled together that focuses on my interest in the Beach Boys and their music.
 
-One very cool outcome of this exercise was my use of parallax scrolling. Check it out. It can be seen by clicking on the "Wax Stack" and "Snapsicles" links. Love parallax scrolling! Experience the features of this project directly in the browser by visiting the live demo [here](https://courageous-malasada-fb7028.netlify.app/)
+One very cool outcome of this exercise was my use of parallax scrolling. Check it out. It can be seen by clicking on the "Wax Stack" and "Snapsicles" links. Love parallax scrolling!
+
+Experience the features of this project directly in the browser by visiting the live demo [here](https://courageous-malasada-fb7028.netlify.app/)
 
 <!-- Here is an image that shows the top of the snapsicles page:
 
